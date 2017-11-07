@@ -1,0 +1,33 @@
+{
+  "animais": [
+    {"id": "A001", "avatar" : "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg", "nome": "Sanhaço da Santa Lúcia", "apelido": "Trovão"},
+    {"id": "A002", "avatar": "img/ikFBzeRrTACI8K69AujI_garanhaodavidafeliz.jpg", "nome": "Garanhão da Vida Feliz", "apelido": "Garanhão"},
+    {"id": "A003", "avatar": "img/qaQkgnXYSecjXXc5qBry_timbiraehumberto.jpg", "nome": "Timbira da Santa Cristina", "apelido": "Timbira"},        
+    {"id": "A004", "avatar": "img/wmzorGD8TJeiQwqiCXZJ_raioebebeto.jpg", "nome": "Raio do R.P.L.", "apelido": "Raio" },
+    {"id": "A005", "avatar": "", "nome": "Vindo do Mock", "apelido": "Teste" }
+  ],
+  "manejos": [         
+    { "id": "M001", "animal": "img/MmZICiLTXarWj7SigmiT_sanhacoepaulo.jpg", "ocorrencia": "Corte de Crina", "descricao": "Corte da crina até um palmo abaixo da região das orelhas", "icone": "ion-scissors" },
+    { "id": "M002", "animal": "img/ikFBzeRrTACI8K69AujI_garanhaodavidafeliz.jpg", "ocorrencia": "Caqueamento", "descricao": "4 cascos",  "icone": "ion-magnet"},
+    { "id": "M003", "animal": "img/JbCfyaLETMeC3jlAVYrg_garanhaodavidafeliz.jpg", "ocorrencia": "Outro", "descricao": "Suplementação com probiótico em pasta", "icone": "ion-soup-can" },
+    { "id": "M004", "animal": "", "ocorrencia": "Teste", "descricao": "Teste", "icone": "ion-misc" }
+  ],
+  "veterinarios": [
+    { "id": "V001", "animal": "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "ion-ios-medkit-outline"},
+    { "id": "V002", "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg", "categoria": "Controle Sanitário", "tipo": "Carrapaticida", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "ion-alert-circled"},
+    { "id": "V003", "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg", "categoria": "Controle Sanitário", "tipo": "Vermífugo", "diagnostico" : "Tratemento  de Prevenção" , "acao" : "Eqvalan 15g", "icone": "ion-alert-circled"},
+    { "id": "V004", "animal": "img/9sQoo3bGSMKdzSNcUoJ3_timbiraehumberto.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "ion-ios-medkit-outline"},
+    { "id": "V005", "animal": "img/BErQTW1TdSnrw962DBqw_raioebebeto.jpg", "categoria": "Controle Sanitário", "tipo": "Carrapaticida", "diagnostico" : "Prevenção contra Carrapatos" , "acao" : "Aplicdo Ciparellvet", "icone": "ion-alert-circled"}
+  ],
+  "despesas": [
+    { "id": "D001", "icone": "ion-settings", "data": "30/10/2017", "descricao": "Cabresto de Fita", "local": "Dourado", "valor": "19,00" },
+    { "id": "D002", "icone": "ion-ios-nutrition", "data": "01/11/2017", "descricao": "Suprimento Ração Mensal", "valor": "315,42" },
+    { "id": "D003", "icone": "ion-ios-medkit", "data": "01/11/2017", "descricao": "Organnact Prata","local": "Dourado", "valor": "39,00" },
+    { "id": "D004", "icone": "ion-ios-medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "local": "Dourado", "valor": "160,00" }
+  ],
+  "agendas": [{ "id": "A001", "icone": "ion-magnet", "data": "30/11/2017", "nome": "Casqueamento", "descricao": "Cabresto de Fita",  "responsavel": "1", "animal" : "a001" },
+        { "id": "A002", "icone": "ion-ios-nutrition", "data": "15/11/2017", "nome": "Suplementação Probiótico", "descricao": "Suplementação com probiótico em pasta",  "responsavel": "1", "animal" : "a001"},
+        { "id": "A003", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Vacina Antirábica", "descricao": "Vacinar Potros e Adultos",  "responsavel": "Dr. Veterinário", "animal" : "a003"},
+        { "id": "A004", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Carrapaticida", "descricao": "Prevenção com Ceperallvit",  "responsavel": "Tratador Zé das couves", "animal" : "a002" }],
+  
+}
