@@ -25,9 +25,10 @@
     { "id": "D003", "icone": "ion-ios-medkit", "data": "01/11/2017", "descricao": "Organnact Prata","local": "Dourado", "valor": "39,00" },
     { "id": "D004", "icone": "ion-ios-medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "local": "Dourado", "valor": "160,00" }
   ],
-  "agendas": [{ "id": "A001", "icone": "ion-magnet", "data": "30/11/2017", "nome": "Casqueamento", "descricao": "Cabresto de Fita",  "responsavel": "1", "animal" : "a001" },
-        { "id": "A002", "icone": "ion-ios-nutrition", "data": "15/11/2017", "nome": "Suplementação Probiótico", "descricao": "Suplementação com probiótico em pasta",  "responsavel": "1", "animal" : "a001"},
-        { "id": "A003", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Vacina Antirábica", "descricao": "Vacinar Potros e Adultos",  "responsavel": "Dr. Veterinário", "animal" : "a003"},
-        { "id": "A004", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Carrapaticida", "descricao": "Prevenção com Ceperallvit",  "responsavel": "Tratador Zé das couves", "animal" : "a002" }
+  "agendas": [
+    { "id": "A001", "icone": "ion-magnet", "data": "30/11/2017", "nome": "Casqueamento", "descricao": "Cabresto de Fita",  "responsavel": "1", "animal" : "a001" },
+    { "id": "A002", "icone": "ion-ios-nutrition", "data": "15/11/2017", "nome": "Suplementação Probiótico", "descricao": "Suplementação com probiótico em pasta",  "responsavel": "1", "animal" : "a001"},        
+    { "id": "A003", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Vacina Antirábica", "descricao": "Vacinar Potros e Adultos",  "responsavel": "Dr. Veterinário", "animal" : "a003"},
+    { "id": "A004", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Carrapaticida", "descricao": "Prevenção com Ceperallvit",  "responsavel": "Tratador Zé das couves", "animal" : "a002" }
   ]
 }
