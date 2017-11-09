@@ -7,7 +7,7 @@
       "apelido": "Trovão",
       "registro" : "14090",
       "livro" : "MMC - CASTRADO",
-      "Sexo": "Castrado",
+      "sexo": "Castrado",
       "dt-nasc" : "13/01/2012",
       "chip" : "982000192320397",
       "pelagem": "TORDILHA",
@@ -21,7 +21,19 @@
       "cotas" : 100,
       "resenha" : "Rodopio na linha média dos olhos; rodopio na garganta; espiga invertida no bordo ventral pescoço; baixo calçado com casco mesclado no PE;",
       "criador" : "VIRGILIO JUNQUEIRA REIS",
-      "proprietario" : "VIRGILIO JUNQUEIRA REIS"
+      "proprietario" : "VIRGILIO JUNQUEIRA REIS",
+      "fotos" : [{
+        "id" : "A001_F001",
+        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+      },
+      {
+        "id" : "A001_F002",
+        "img" : "img/R1LxkXnbSEVLfJENzCTB_paulo-sanhaco-01-11-2017.jpeg"
+      },
+                       {
+        "id" : "A001_F002",
+        "img" : "img/H7HbKGKwR6WEQ2HbAk82_sanhacoepaulo.jpg"
+      }]
     },
     {
       "id": "A002", 
@@ -30,7 +42,7 @@
       "apelido": "Garanhão",
       "registro" : "242677",
       "livro" : "MM1 - PROVISORIO MACHO",
-      "Sexo": "MACHO",
+      "sexo": "MACHO",
       "dt-nasc" : "24/02/2016",
       "chip" : "982000405843274",
       "pelagem": "CASTANHA PAMPA",
@@ -53,7 +65,7 @@
       "apelido": "Timbira",
       "registro" : "197300",
       "livro" : "MM2 - PROVISORIO FÊMEA",
-      "Sexo": "FÊMEA",
+      "sexo": "FÊMEA",
       "dt-nasc" : "20/06/2008",
       "chip" : "N/A",
       "pelagem": "TORDILHA",
@@ -76,7 +88,7 @@
       "apelido": "Raio",
       "registro" : "N/A",
       "livro" : "N/A",
-      "Sexo": "Castrado",
+      "sexo": "Castrado",
       "dt-nasc" : "N/A",
       "chip" : "N/A",
       "pelagem": "BAIA",
@@ -99,7 +111,7 @@
       "apelido": "Teste",
       "registro" : "N/A",
       "livro" : "N/A",
-      "Sexo": "Castrado",
+      "sexo": "Castrado",
       "dt-nasc" : "N/A",
       "chip" : "N/A",
       "pelagem": "N/A",
@@ -140,5 +152,22 @@
     { "id": "A002", "icone": "ion-ios-nutrition", "data": "15/11/2017", "nome": "Suplementação Probiótico", "descricao": "Suplementação com probiótico em pasta",  "responsavel": "1", "animal" : "a001"},        
     { "id": "A003", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Vacina Antirábica", "descricao": "Vacinar Potros e Adultos",  "responsavel": "Dr. Veterinário", "animal" : "a003"},
     { "id": "A004", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Carrapaticida", "descricao": "Prevenção com Ceperallvit",  "responsavel": "Tratador Zé das couves", "animal" : "a002" }
-  ]
+  ],
+  "profile": [         
+    { 
+      "id": "P001", 
+      "logomarca": "img/SAWR0BqFSZknazdkqcWA_Logo_PEPE_legal_onlinelogomaker-103117-1153-5251.png",
+      "marca-ferra" : "img/ZhQWqvxfRGrIqz2KWu2Q_ModeloMarcadeFerra1.png",
+      "sufixo" : "R.P.L",
+      "prefixo" : "N/A",
+      "proprietario": "CARLOS HUMBERTO SOUZA ANDRADE FILHO", 
+      "CNPJ": "Corte da crina até um palmo abaixo da região das orelhas", 
+      "endereco": "Estrada CE-350",
+      "gerente" : [{
+        "nome" : "José Gerente",
+        "telefone" : "85 9999-9999",
+        "email" : ""
+      }],
+      "habilitar-site": "Sim" }
+  ]  
 }
