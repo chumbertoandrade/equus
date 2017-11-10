@@ -129,10 +129,101 @@
     }
   ],
   "manejos": [         
-    { "id": "M001", "animal": "img/MmZICiLTXarWj7SigmiT_sanhacoepaulo.jpg", "ocorrencia": "Corte de Crina", "descricao": "Corte da crina até um palmo abaixo da região das orelhas", "icone": "ion-scissors" },
-    { "id": "M002", "animal": "img/ikFBzeRrTACI8K69AujI_garanhaodavidafeliz.jpg", "ocorrencia": "Caqueamento", "descricao": "4 cascos",  "icone": "ion-magnet"},
-    { "id": "M003", "animal": "img/JbCfyaLETMeC3jlAVYrg_garanhaodavidafeliz.jpg", "ocorrencia": "Outro", "descricao": "Suplementação com probiótico em pasta", "icone": "ion-soup-can" },
-    { "id": "M004", "animal": "", "ocorrencia": "Teste", "descricao": "Teste", "icone": "ion-misc" }
+    { 
+      "id": "M001", 
+      "procedimento" : "Alojamento",
+      "animal" : [{
+        "id" : "A001_F001",
+       "apelido": "Garanhão",
+        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+      }],
+      "descricao": "Animal movido para o Pasto sul de Tifton85",      
+      "local":"Pasto Sul",
+      "tipo": "Capim Tifton85",
+      "dtInicio":"31/10/2017",
+      "no_dias":15,
+      "fab_marca" : "N/A",
+      "quantidade": "10kg",
+      "noTratoDia": 5,
+      "responsavel" : "Zé das Couves",
+      "observacao": "animal vai ficar só na dieta com volumoso",
+      "icone": "ion-scissors" },
+    { 
+      "id": "M002", 
+      "procedimento" : "Alimentação", 
+      "animal" : [{
+        "id" : "A001_F001",
+       "apelido": "Garanhão",
+        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+      }],
+      "descricao": "Ração na baia",
+      "local":"Baia 1",
+      "tipo": "Ração",
+      "dtInicio":"11/11/2017",
+      "no_dias": 0,
+      "fab_marca" : "Equimix Lazer",
+      "quantidade": "4kg",
+      "noTratoDia": 2,
+      "responsavel" : "Zé das Couves",
+      "observacao": "Manter na baia à noite e após o 1o. trato soltar no pasto. Recolher no fim de tarde",
+      "icone": "ion-scissors" },
+    { 
+      "id": "M003", 
+      "procedimento" : "Alimentação", 
+      "animal" : [{
+        "id" : "A001_F001",
+       "apelido": "Garanhão",
+        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+      }],
+      "descricao": "Suplemento pra ganhar peso e altura",
+      "local":"Baia 1",
+      "tipo": "Suplemento",
+      "dtInicio":"11/11/2017",
+      "no_dias": 0,
+      "fab_marca" : "Amino Mix da Lavizoo",
+      "quantidade": "100g",
+      "noTratoDia": 1,
+      "responsavel" : "Zé das Couves",
+      "observacao": "",
+      "icone": "ion-scissors" },
+    { 
+      "id": "M004", 
+      "procedimento" : "Alimentação", 
+      "animal" : [{
+        "id" : "A001_F001",
+       "apelido": "Garanhão",
+        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+      }],
+      "descricao": "Fardo de Feno laranjeira",
+      "local":"Baia 1",
+      "tipo": "Feno",
+      "dtInicio":"11/11/2017",
+      "no_dias": 0,
+      "fab_marca" : "Laranjeira",
+      "quantidade": "5kg",
+      "noTratoDia": 1,
+      "responsavel" : "Zé das Couves",
+      "observacao": "Colocar à noite após a ração",
+      "icone": "ion-" },    
+    { 
+      "id": "M005", 
+      "procedimento" : "Alojamento", 
+      "animal" : [{
+        "id" : "A001",
+       "apelido": "Sanhaço",
+        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+      }],
+      "descricao": "Fardo de Feno laranjeira",
+      "local":"Baia 2",
+      "tipo": "Feno",
+      "dtInicio":"11/11/2017",
+      "no_dias": 0,
+      "fab_marca" : "Laranjeira",
+      "quantidade": "5kg",
+      "noTratoDia": 1,
+      "responsavel" : "Zé das Couves",
+      "observacao": "Colocar à noite após a ração",
+      "icone": "ion-" }
   ],
   "veterinarios": [
     { "id": "V001", "animal": "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "ion-ios-medkit-outline"},
