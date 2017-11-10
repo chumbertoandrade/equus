@@ -103,29 +103,6 @@
       "resenha" : "vestígio de estrela na fronte",
       "criador" : "N/A",
       "proprietario" : "CARLOS HUMBERTO SOUZA ANDRADE FILHO"  
-    },
-    {
-      "id": "A005", 
-      "avatar": "", 
-      "nome": "Vindo do Mock", 
-      "apelido": "Teste",
-      "registro" : "N/A",
-      "livro" : "N/A",
-      "sexo": "Castrado",
-      "dt-nasc" : "N/A",
-      "chip" : "N/A",
-      "pelagem": "N/A",
-      "exame": "",
-      "vivo": "SIM",
-      "bloqueado": "NÃO",
-      "status" : "Pasto",
-      "tipo": "Castrado e de Sela",
-      "pai" : "N/A",
-      "mae" : "N/A",
-      "cotas" : 100,
-      "resenha" : "N/A",
-      "criador" : "N/A",
-      "proprietario" : "N/A" 
     }
   ],
   "manejos": [         
@@ -153,8 +130,7 @@
       "procedimento" : "Alimentação", 
       "animal" : [{
         "id" : "A001_F001",
-       "apelido": "Garanhão",
-        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+       "apelido": "Garanhão"
       }],
       "descricao": "Ração na baia",
       "local":"Baia 1",
@@ -172,8 +148,7 @@
       "procedimento" : "Alimentação", 
       "animal" : [{
         "id" : "A001_F001",
-       "apelido": "Garanhão",
-        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+       "apelido": "Garanhão"
       }],
       "descricao": "Suplemento pra ganhar peso e altura",
       "local":"Baia 1",
@@ -191,30 +166,10 @@
       "procedimento" : "Alimentação", 
       "animal" : [{
         "id" : "A001_F001",
-       "apelido": "Garanhão",
-        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+       "apelido": "Garanhão"
       }],
       "descricao": "Fardo de Feno laranjeira",
       "local":"Baia 1",
-      "tipo": "Feno",
-      "dtInicio":"11/11/2017",
-      "no_dias": 0,
-      "fabMarca" : "Laranjeira",
-      "quantidade": "5kg",
-      "noTratoDia": 1,
-      "responsavel" : "Zé das Couves",
-      "observacao": "Colocar à noite após a ração",
-      "icone": "ion-" },    
-    { 
-      "id": "M005", 
-      "procedimento" : "Alojamento", 
-      "animal" : [{
-        "id" : "A001",
-       "apelido": "Sanhaço",
-        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
-      }],
-      "descricao": "Fardo de Feno laranjeira",
-      "local":"Baia 2",
       "tipo": "Feno",
       "dtInicio":"11/11/2017",
       "no_dias": 0,
@@ -229,8 +184,7 @@
     { "id": "V001", "animal": "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "ion-ios-medkit-outline"},
     { "id": "V002", "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg", "categoria": "Controle Sanitário", "tipo": "Carrapaticida", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "ion-alert-circled"},
     { "id": "V003", "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg", "categoria": "Controle Sanitário", "tipo": "Vermífugo", "diagnostico" : "Tratemento  de Prevenção" , "acao" : "Eqvalan 15g", "icone": "ion-alert-circled"},
-    { "id": "V004", "animal": "img/9sQoo3bGSMKdzSNcUoJ3_timbiraehumberto.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "ion-ios-medkit-outline"},
-    { "id": "V005", "animal": "img/BErQTW1TdSnrw962DBqw_raioebebeto.jpg", "categoria": "Controle Sanitário", "tipo": "Carrapaticida", "diagnostico" : "Prevenção contra Carrapatos" , "acao" : "Aplicdo Ciparellvet", "icone": "ion-alert-circled"}
+    { "id": "V004", "animal": "img/9sQoo3bGSMKdzSNcUoJ3_timbiraehumberto.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "ion-ios-medkit-outline"}
   ],
   "despesas": [
     { "id": "D001", "tipo" : "Equipamento", "icone": "ion-settings", "data": "30/10/2017", "descricao": "Cabresto de Fita", "local": "Dourado", "quantidade": 1, "valor": "19,00", "observacao": "Cabresto com pescoceira para o garanhão" },
@@ -242,7 +196,6 @@
     { "id": "AG001", "icone": "ion-magnet", "data": "30/11/2017", "nome": "Casqueamento", "descricao": "Cabresto de Fita",  "responsavel": "1", "animal" : "a001" },
     { "id": "AG002", "icone": "ion-ios-nutrition", "data": "15/11/2017", "nome": "Suplementação Probiótico", "descricao": "Suplementação com probiótico em pasta",  "responsavel": "1", "animal" : "a001"},        
     { "id": "AG003", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Vacina Antirábica", "descricao": "Vacinar Potros e Adultos",  "responsavel": "Dr. Veterinário", "animal" : "a003"},
-    { "id": "AG004", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Carrapaticida", "descricao": "Prevenção com Ceperallvit",  "responsavel": "Tratador Zé das couves", "animal" : "a002" },
     { "id": "AG999",
          "profile": [         
         { 
