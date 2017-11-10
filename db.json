@@ -142,10 +142,10 @@
     { "id": "V005", "animal": "img/BErQTW1TdSnrw962DBqw_raioebebeto.jpg", "categoria": "Controle Sanitário", "tipo": "Carrapaticida", "diagnostico" : "Prevenção contra Carrapatos" , "acao" : "Aplicdo Ciparellvet", "icone": "ion-alert-circled"}
   ],
   "despesas": [
-    { "id": "D001", "icone": "ion-settings", "data": "30/10/2017", "descricao": "Cabresto de Fita", "local": "Dourado", "valor": "19,00" },
-    { "id": "D002", "icone": "ion-ios-nutrition", "data": "01/11/2017", "descricao": "Suprimento Ração Mensal", "valor": "315,42" },
-    { "id": "D003", "icone": "ion-ios-medkit", "data": "01/11/2017", "descricao": "Organnact Prata","local": "Dourado", "valor": "39,00" },
-    { "id": "D004", "icone": "ion-ios-medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "local": "Dourado", "valor": "160,00" }
+    { "id": "D001", "tipo" : "Equipamento", "icone": "ion-settings", "data": "30/10/2017", "descricao": "Cabresto de Fita", "local": "Dourado", "quantidade": 1, "valor": "19,00", "observacao": "Cabresto com pescoceira para o garanhão" },
+    { "id": "D002", "tipo" : "Alimentação", "icone": "ion-ios-nutrition", "data": "01/11/2017", "descricao": "Suprimento Ração Mensal", "quantidade": 1, "valor": "315,42" , "observacao": "7 sacas (5 Lazer/2 Haras) + 1 cromo"},
+    { "id": "D003", "tipo" : "Veterinárias", "icone": "ion-ios-medkit", "data": "01/11/2017", "descricao": "Organnact Prata","local": "Dourado", "quantidade": 1, "valor": "39,00" , "observacao": "Reposição Medicamento"},
+    { "id": "D004", "tipo" : "Alimentação", "icone": "ion-ios-medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "local": "Dourado", "quantidade": 1, "valor": "160,00" , "observacao": "www.lavizoo.com.br"}
   ],
   "agendas": [
     { "id": "AG001", "icone": "ion-magnet", "data": "30/11/2017", "nome": "Casqueamento", "descricao": "Cabresto de Fita",  "responsavel": "1", "animal" : "a001" },
@@ -153,23 +153,32 @@
     { "id": "AG003", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Vacina Antirábica", "descricao": "Vacinar Potros e Adultos",  "responsavel": "Dr. Veterinário", "animal" : "a003"},
     { "id": "AG004", "icone": "ion-ios-medkit", "data": "01/01/2018", "nome": "Carrapaticida", "descricao": "Prevenção com Ceperallvit",  "responsavel": "Tratador Zé das couves", "animal" : "a002" },
     { "id": "AG999",
-     "profile": [         
-    { 
-      "id": "P001", 
-      "logomarca": "img/SAWR0BqFSZknazdkqcWA_Logo_PEPE_legal_onlinelogomaker-103117-1153-5251.png",
-      "marca-ferra" : "img/ZhQWqvxfRGrIqz2KWu2Q_ModeloMarcadeFerra1.png",
-      "sufixo" : "R.P.L",
-      "prefixo" : "N/A",
-      "proprietario": "CARLOS HUMBERTO SOUZA ANDRADE FILHO", 
-      "CNPJ": "Corte da crina até um palmo abaixo da região das orelhas", 
-      "endereco": "Estrada CE-350",
-      "gerente" : [{
-        "nome" : "José Gerente",
-        "telefone" : "85 9999-9999",
-        "email" : ""
-      }],
-      "habilitar-site": "Sim" }
-  ]  
-    }
+         "profile": [         
+        { 
+          "id": "P001", 
+          "logomarca": "img/SAWR0BqFSZknazdkqcWA_Logo_PEPE_legal_onlinelogomaker-103117-1153-5251.png",
+          "marca-ferra" : "img/ZhQWqvxfRGrIqz2KWu2Q_ModeloMarcadeFerra1.png",
+          "sufixo" : "R.P.L",
+          "prefixo" : "N/A",
+          "proprietario": "CARLOS HUMBERTO SOUZA ANDRADE FILHO", 
+          "CNPJ": "Corte da crina até um palmo abaixo da região das orelhas", 
+          "endereco": "Estrada CE-350",
+          "gerente" : [{
+            "nome" : "José Gerente",
+            "telefone" : "85 9999-9999",
+            "email" : ""
+          }],
+          "habilitar-site": "Sim" }
+      ]
+    },
+    { "id": "AG1000",
+         "login": [         
+        { 
+          "usuario": "humberto@equus.com.br", 
+          "senha": "!@#$%" 
+        }
+      ]
+    }    
+    
   ]
 }
