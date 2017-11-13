@@ -199,9 +199,10 @@
     { "id": "AG999",
          "profile": [         
         { 
-          "id": "P001", 
+          "id": "P001",
+          "nome" : "Haras Rancho Pepe Legal",
           "logomarca": "img/SAWR0BqFSZknazdkqcWA_Logo_PEPE_legal_onlinelogomaker-103117-1153-5251.png",
-          "marca-ferra" : "img/ZhQWqvxfRGrIqz2KWu2Q_ModeloMarcadeFerra1.png",
+          "marcaFerra" : "img/ZhQWqvxfRGrIqz2KWu2Q_ModeloMarcadeFerra1.png",
           "sufixo" : "R.P.L",
           "prefixo" : "N/A",
           "proprietario": "CARLOS HUMBERTO SOUZA ANDRADE FILHO", 
@@ -212,7 +213,7 @@
             "telefone" : "85 9999-9999",
             "email" : ""
           }],
-          "habilitar-site": "Sim" }
+          "habilitarSite": "Sim" }
       ]
     },
     { "id": "AG1000",
