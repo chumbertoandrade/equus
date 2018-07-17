@@ -2,7 +2,7 @@
   "animais": [
     {
       "id": "A001",
-      "avatar": "img/dummy/sanhacoepaulo.jpg",
+      "avatar": "assets/img/dummy/sanhacoepaulo.jpg",
       "nome": "Sanhaço da Santa Lúcia",
       "apelido": "Trovão",
       "registro": "14090",
@@ -25,21 +25,21 @@
       "fotos": [
         {
           "id": "A001_F001",
-          "img": "img/dummy/Mokit_sanhaco.jpeg"
+          "img": "assets/img/dummy/Mokit_sanhaco.jpeg"
         },
         {
           "id": "A001_F002",
-          "img": "img/dummy/paulo-sanhaco-01-11-2017.jpeg"
+          "img": "assets/img/dummy/paulo-sanhaco-01-11-2017.jpeg"
         },
         {
           "id": "A001_F002",
-          "img": "img/dummy/sanhacoepaulo.jpg"
+          "img": "assets/img/dummy/sanhacoepaulo.jpg"
         }
       ]
     },
     {
       "id": "A002",
-      "avatar": "img/dummy/garanhaodavidafeliz.jpg",
+      "avatar": "assets/img/dummy/garanhaodavidafeliz.jpg",
       "nome": "Garanhão da Vida Feliz",
       "apelido": "Garanhão",
       "registro": "242677",
@@ -62,7 +62,7 @@
     },
     {
       "id": "A003",
-      "avatar": "img/dummy/timbiraehumberto.jpg",
+      "avatar": "assets/img/dummy/timbiraehumberto.jpg",
       "nome": "Timbira da Santa Cristina",
       "apelido": "Timbira",
       "registro": "197300",
@@ -85,7 +85,7 @@
     },
     {
       "id": "A004",
-      "avatar": "img/dummy/raioebebeto.jpg",
+      "avatar": "assets/img/dummy/raioebebeto.jpg",
       "nome": "Raio do R.P.L.",
       "apelido": "Raio",
       "registro": "N/A",
