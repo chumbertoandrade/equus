@@ -192,7 +192,6 @@
     { "id": "D003", "tipo" : "Veterinárias", "icone": "medkit", "data": "01/11/2017", "descricao": "Organnact Prata","fornecedor": "Dourado", "quantidade": 1, "valor": "39,00" , "observacao": "Reposição Medicamento"},
     { "id": "D004", "tipo" : "Alimentação", "icone": "medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "fornecedor": "Dourado", "quantidade": 1, "valor": "160,00" , "observacao": "www.lavizoo.com.br"}
   ],
-{
   "haras": {
     "profile": [
       {
@@ -225,5 +224,4 @@
       }
     ]
   }
-}
 }
