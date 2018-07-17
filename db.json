@@ -1,227 +1,319 @@
 {
   "animais": [
     {
-      "id": "A001", 
-      "avatar" : "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg", 
-      "nome": "Sanhaço da Santa Lúcia", 
+      "id": "A001",
+      "avatar": "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg",
+      "nome": "Sanhaço da Santa Lúcia",
       "apelido": "Trovão",
-      "registro" : "14090",
-      "livro" : "MMC - CASTRADO",
+      "registro": "14090",
+      "livro": "MMC - CASTRADO",
       "sexo": "Castrado",
-      "dt-nasc" : "13/01/2012",
-      "chip" : "982000192320397",
+      "dt-nasc": "13/01/2012",
+      "chip": "982000192320397",
       "pelagem": "TORDILHA",
       "exame": "DNA-VP",
       "vivo": "sim",
       "bloqueado": "NÃO",
-      "status" : "Pasto",
+      "status": "Pasto",
       "tipo": "Castrado de Sela",
-      "pai" : "RÁDIO VJ DA SANTA LÚCIA",
-      "mae" : "TIGELA DA ESCADINHA",
-      "cotas" : 100,
-      "resenha" : "Rodopio na linha média dos olhos; rodopio na garganta; espiga invertida no bordo ventral pescoço; baixo calçado com casco mesclado no PE;",
-      "criador" : "VIRGILIO JUNQUEIRA REIS",
-      "proprietario" : "VIRGILIO JUNQUEIRA REIS",
-      "fotos" : [{
-        "id" : "A001_F001",
-        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
-      },
-      {
-        "id" : "A001_F002",
-        "img" : "img/R1LxkXnbSEVLfJENzCTB_paulo-sanhaco-01-11-2017.jpeg"
-      },
-                       {
-        "id" : "A001_F002",
-        "img" : "img/H7HbKGKwR6WEQ2HbAk82_sanhacoepaulo.jpg"
-      }]
+      "pai": "RÁDIO VJ DA SANTA LÚCIA",
+      "mae": "TIGELA DA ESCADINHA",
+      "cotas": 100,
+      "resenha": "Rodopio na linha média dos olhos; rodopio na garganta; espiga invertida no bordo ventral pescoço; baixo calçado com casco mesclado no PE;",
+      "criador": "VIRGILIO JUNQUEIRA REIS",
+      "proprietario": "VIRGILIO JUNQUEIRA REIS",
+      "fotos": [
+        {
+          "id": "A001_F001",
+          "img": "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+        },
+        {
+          "id": "A001_F002",
+          "img": "img/R1LxkXnbSEVLfJENzCTB_paulo-sanhaco-01-11-2017.jpeg"
+        },
+        {
+          "id": "A001_F002",
+          "img": "img/H7HbKGKwR6WEQ2HbAk82_sanhacoepaulo.jpg"
+        }
+      ]
     },
     {
-      "id": "A002", 
-      "avatar": "img/ikFBzeRrTACI8K69AujI_garanhaodavidafeliz.jpg", 
-      "nome": "Garanhão da Vida Feliz", 
+      "id": "A002",
+      "avatar": "img/ikFBzeRrTACI8K69AujI_garanhaodavidafeliz.jpg",
+      "nome": "Garanhão da Vida Feliz",
       "apelido": "Garanhão",
-      "registro" : "242677",
-      "livro" : "MM1 - PROVISORIO MACHO",
+      "registro": "242677",
+      "livro": "MM1 - PROVISORIO MACHO",
       "sexo": "MACHO",
-      "dt-nasc" : "24/02/2016",
-      "chip" : "982000405843274",
+      "dt-nasc": "24/02/2016",
+      "chip": "982000405843274",
       "pelagem": "CASTANHA PAMPA",
       "exame": "DNA-VP",
       "vivo": "sim",
       "bloqueado": "NÃO",
-      "status" : "Fase de Crescimento",
+      "status": "Fase de Crescimento",
       "tipo": "Potro (a)",
-      "pai" : "ASSANHADO DE NANUQUE",
-      "mae" : "PARATI DA RIOCON",
-      "cotas" : 100,
-      "resenha" : "Rodopio na fronte; estrela; rodopio em leque na garganta, rodopio 1/3 cranial da goteira jugular LD; alto calçado dos M.P.; cascos brancos nos 4 membros",
-      "criador" : "FERNANDO AUGUSTO GESTEIRA DE CARVALHO",
-      "proprietario" : "FERNANDO AUGUSTO GESTEIRA DE CARVALHO"      
+      "pai": "ASSANHADO DE NANUQUE",
+      "mae": "PARATI DA RIOCON",
+      "cotas": 100,
+      "resenha": "Rodopio na fronte; estrela; rodopio em leque na garganta, rodopio 1/3 cranial da goteira jugular LD; alto calçado dos M.P.; cascos brancos nos 4 membros",
+      "criador": "FERNANDO AUGUSTO GESTEIRA DE CARVALHO",
+      "proprietario": "FERNANDO AUGUSTO GESTEIRA DE CARVALHO"
     },
     {
-      "id": "A003", 
-      "avatar": "img/qaQkgnXYSecjXXc5qBry_timbiraehumberto.jpg", 
-      "nome": "Timbira da Santa Cristina", 
+      "id": "A003",
+      "avatar": "img/qaQkgnXYSecjXXc5qBry_timbiraehumberto.jpg",
+      "nome": "Timbira da Santa Cristina",
       "apelido": "Timbira",
-      "registro" : "197300",
-      "livro" : "MM2 - PROVISORIO FÊMEA",
+      "registro": "197300",
+      "livro": "MM2 - PROVISORIO FÊMEA",
       "sexo": "FÊMEA",
-      "dt-nasc" : "20/06/2008",
-      "chip" : "N/A",
+      "dt-nasc": "20/06/2008",
+      "chip": "N/A",
       "pelagem": "TORDILHA",
       "exame": "DNA-VP",
       "vivo": "sim",
       "bloqueado": "NÃO",
-      "status" : "Fase de Crescimento",
+      "status": "Fase de Crescimento",
       "tipo": "Potro (a)",
-      "pai" : "ORNATO DO PAU DA ROLA",
-      "mae" : "MIG ZINGA",
-      "cotas" : 100,
-      "resenha" : "Rodopio na fronte; estrela; rodopio em leque na garganta, rodopio 1/3 cranial da goteira jugular LD; alto calçado dos M.P.; cascos brancos nos 4 membros",
-      "criador" : "ROQUE JOSE ARCHANJO DOS SANTOS",
-      "proprietario" : "ANTONIO OLIMPIO DA SILVA MOURA COSTA"       
-    },        
+      "pai": "ORNATO DO PAU DA ROLA",
+      "mae": "MIG ZINGA",
+      "cotas": 100,
+      "resenha": "Rodopio na fronte; estrela; rodopio em leque na garganta, rodopio 1/3 cranial da goteira jugular LD; alto calçado dos M.P.; cascos brancos nos 4 membros",
+      "criador": "ROQUE JOSE ARCHANJO DOS SANTOS",
+      "proprietario": "ANTONIO OLIMPIO DA SILVA MOURA COSTA"
+    },
     {
-      "id": "A004", 
-      "avatar": "img/wmzorGD8TJeiQwqiCXZJ_raioebebeto.jpg", 
-      "nome": "Raio do R.P.L.", 
+      "id": "A004",
+      "avatar": "img/wmzorGD8TJeiQwqiCXZJ_raioebebeto.jpg",
+      "nome": "Raio do R.P.L.",
       "apelido": "Raio",
-      "registro" : "N/A",
-      "livro" : "N/A",
+      "registro": "N/A",
+      "livro": "N/A",
       "sexo": "Castrado",
-      "dt-nasc" : "N/A",
-      "chip" : "N/A",
+      "dt-nasc": "N/A",
+      "chip": "N/A",
       "pelagem": "BAIA",
       "exame": "",
       "vivo": "Sim",
       "bloqueado": "NÃO",
-      "status" : "Pasto",
+      "status": "Pasto",
       "tipo": "Castrado e de Sela",
-      "pai" : "N/A",
-      "mae" : "N/A",
-      "cotas" : 100,
-      "resenha" : "vestígio de estrela na fronte",
-      "criador" : "N/A",
-      "proprietario" : "CARLOS HUMBERTO SOUZA ANDRADE FILHO"  
+      "pai": "N/A",
+      "mae": "N/A",
+      "cotas": 100,
+      "resenha": "vestígio de estrela na fronte",
+      "criador": "N/A",
+      "proprietario": "CARLOS HUMBERTO SOUZA ANDRADE FILHO"
     }
   ],
-  "agenda": [         
-    { 
-      "id": "M001", 
-      "procedimento" : "Alojamento",
-      "animal" : [{
-        "id" : "A001_F001",
-       "apelido": "Garanhão",
-        "img" : "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
-      }],
-      "descricao": "Animal movido para o Pasto sul de Tifton85",      
-      "local":"Pasto Sul",
+  "agenda": [
+    {
+      "id": "M001",
+      "procedimento": "Alojamento",
+      "animal": [
+        {
+          "id": "A001_F001",
+          "apelido": "Garanhão",
+          "img": "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+        }
+      ],
+      "descricao": "Animal movido para o Pasto sul de Tifton85",
+      "local": "Pasto Sul",
       "tipo": "Capim Tifton85",
-      "dtInicio":"31/10/2017",
-      "no_dias":15,
-      "fabMarca" : "N/A",
+      "dtInicio": "31/10/2017",
+      "no_dias": 15,
+      "fabMarca": "N/A",
       "quantidade": "10kg",
       "noTratoDia": 5,
-      "responsavel" : "Zé das Couves",
+      "responsavel": "Zé das Couves",
       "observacao": "animal vai ficar só na dieta com volumoso",
-      "icone": "ion-scissors" },
-    { 
-      "id": "M002", 
-      "procedimento" : "Alimentação", 
-      "animal" : [{
-        "id" : "A001_F001",
-       "apelido": "Garanhão"
-      }],
+      "icone": "ion-scissors"
+    },
+    {
+      "id": "M002",
+      "procedimento": "Alimentação",
+      "animal": [
+        {
+          "id": "A001_F001",
+          "apelido": "Garanhão"
+        }
+      ],
       "descricao": "Ração na baia",
-      "local":"Baia 1",
+      "local": "Baia 1",
       "tipo": "Ração",
-      "dtInicio":"11/11/2017",
+      "dtInicio": "11/11/2017",
       "no_dias": 0,
-      "fabMarca" : "Equimix Lazer",
+      "fabMarca": "Equimix Lazer",
       "quantidade": "4kg",
       "noTratoDia": 2,
-      "responsavel" : "Zé das Couves",
+      "responsavel": "Zé das Couves",
       "observacao": "Manter na baia à noite e após o 1o. trato soltar no pasto. Recolher no fim de tarde",
-      "icone": "ion-scissors" },
-    { 
-      "id": "M003", 
-      "procedimento" : "Alimentação", 
-      "animal" : [{
-        "id" : "A001_F001",
-       "apelido": "Garanhão"
-      }],
+      "icone": "ion-scissors"
+    },
+    {
+      "id": "M003",
+      "procedimento": "Alimentação",
+      "animal": [
+        {
+          "id": "A001_F001",
+          "apelido": "Garanhão"
+        }
+      ],
       "descricao": "Suplemento pra ganhar peso e altura",
-      "local":"Baia 1",
+      "local": "Baia 1",
       "tipo": "Suplemento",
-      "dtInicio":"11/11/2017",
+      "dtInicio": "11/11/2017",
       "no_dias": 0,
-      "fabMarca" : "Amino Mix da Lavizoo",
+      "fabMarca": "Amino Mix da Lavizoo",
       "quantidade": "100g",
       "noTratoDia": 1,
-      "responsavel" : "Zé das Couves",
+      "responsavel": "Zé das Couves",
       "observacao": "",
-      "icone": "ion-scissors" },
-    { 
-      "id": "M004", 
-      "procedimento" : "Alimentação", 
-      "animal" : [{
-        "id" : "A001_F001",
-       "apelido": "Garanhão"
-      }],
+      "icone": "ion-scissors"
+    },
+    {
+      "id": "M004",
+      "procedimento": "Alimentação",
+      "animal": [
+        {
+          "id": "A001_F001",
+          "apelido": "Garanhão"
+        }
+      ],
       "descricao": "Fardo de Feno laranjeira",
-      "local":"Baia 1",
+      "local": "Baia 1",
       "tipo": "Feno",
-      "dtInicio":"11/11/2017",
+      "dtInicio": "11/11/2017",
       "no_dias": 0,
-      "fabMarca" : "Laranjeira",
+      "fabMarca": "Laranjeira",
       "quantidade": "5kg",
       "noTratoDia": 1,
-      "responsavel" : "Zé das Couves",
+      "responsavel": "Zé das Couves",
       "observacao": "Colocar à noite após a ração",
-      "icone": "ion-" }
+      "icone": "ion-"
+    }
   ],
   "veterinarios": [
-    { "id": "V001", "data": "02/11/2017", "animal": "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "medkit"},
-    { "id": "V002", "data": "15/10/2017", "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg", "categoria": "Controle Sanitário", "tipo": "Carrapaticida", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "alert"},
-    { "id": "V003", "data": "15/11/2017", "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg", "categoria": "Controle Sanitário", "tipo": "Vermífugo", "diagnostico" : "Tratemento  de Prevenção" , "acao" : "Eqvalan 15g", "icone": "alert"},
-    { "id": "V004", "data": "01/02/2018", "animal": "img/9sQoo3bGSMKdzSNcUoJ3_timbiraehumberto.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "medkit"}
+    {
+      "id": "V001",
+      "data": "02/11/2017",
+      "animal": "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg",
+      "categoria": "Procedimento Clínico",
+      "tipo": "Visita Veterinário (Exame Físico)",
+      "diagnostico": "Apresentando diarréia cônica",
+      "acao": "",
+      "icone": "medkit"
+    },
+    {
+      "id": "V002",
+      "data": "15/10/2017",
+      "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg",
+      "categoria": "Controle Sanitário",
+      "tipo": "Carrapaticida",
+      "diagnostico": "Apresentando diarréia cônica",
+      "acao": "",
+      "icone": "alert"
+    },
+    {
+      "id": "V003",
+      "data": "15/11/2017",
+      "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg",
+      "categoria": "Controle Sanitário",
+      "tipo": "Vermífugo",
+      "diagnostico": "Tratemento  de Prevenção",
+      "acao": "Eqvalan 15g",
+      "icone": "alert"
+    },
+    {
+      "id": "V004",
+      "data": "01/02/2018",
+      "animal": "img/9sQoo3bGSMKdzSNcUoJ3_timbiraehumberto.jpg",
+      "categoria": "Procedimento Clínico",
+      "tipo": "Visita Veterinário (Exame Físico)",
+      "diagnostico": "Apresentando diarréia cônica",
+      "acao": "",
+      "icone": "medkit"
+    }
   ],
   "despesas": [
-    { "id": "D001", "tipo" : "Equipamento", "icone": "settings", "data": "30/10/2017", "descricao": "Cabresto de Fita", "fornecedor": "Dourado", "quantidade": 1, "valor": "19,00", "observacao": "Cabresto com pescoceira para o garanhão" },
-    { "id": "D002", "tipo" : "Alimentação", "icone": "nutrition", "data": "01/11/2017", "descricao": "Suprimento Ração Mensal", "fornecedor": "Integral Mix", "quantidade": 1, "valor": "315,42" , "observacao": "7 sacas (5 Lazer/2 Haras) + 1 cromo"},
-    { "id": "D003", "tipo" : "Veterinárias", "icone": "medkit", "data": "01/11/2017", "descricao": "Organnact Prata","fornecedor": "Dourado", "quantidade": 1, "valor": "39,00" , "observacao": "Reposição Medicamento"},
-    { "id": "D004", "tipo" : "Alimentação", "icone": "medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "fornecedor": "Dourado", "quantidade": 1, "valor": "160,00" , "observacao": "www.lavizoo.com.br"}
+    {
+      "id": "D001",
+      "tipo": "Equipamento",
+      "icone": "settings",
+      "data": "30/10/2017",
+      "descricao": "Cabresto de Fita",
+      "fornecedor": "Dourado",
+      "quantidade": 1,
+      "valor": "19,00",
+      "observacao": "Cabresto com pescoceira para o garanhão"
+    },
+    {
+      "id": "D002",
+      "tipo": "Alimentação",
+      "icone": "nutrition",
+      "data": "01/11/2017",
+      "descricao": "Suprimento Ração Mensal",
+      "fornecedor": "Integral Mix",
+      "quantidade": 1,
+      "valor": "315,42",
+      "observacao": "7 sacas (5 Lazer/2 Haras) + 1 cromo"
+    },
+    {
+      "id": "D003",
+      "tipo": "Veterinárias",
+      "icone": "medkit",
+      "data": "01/11/2017",
+      "descricao": "Organnact Prata",
+      "fornecedor": "Dourado",
+      "quantidade": 1,
+      "valor": "39,00",
+      "observacao": "Reposição Medicamento"
+    },
+    {
+      "id": "D004",
+      "tipo": "Alimentação",
+      "icone": "medkit",
+      "data": "01/11/2017",
+      "descricao": "Suplemento Égua/Potro",
+      "fornecedor": "Dourado",
+      "quantidade": 1,
+      "valor": "160,00",
+      "observacao": "www.lavizoo.com.br"
+    }
   ],
-  "haras": {
-    "profile": [
-      {
-        "nome": "Haras Don Pepe",
-        "logomarca": "img/logomarca_don_pepe.png",
-        "ferra": "img/marca_ferra_don_pepe.png",
-        "sufixo": "Don Pepe",
-        "prefixo": "",
-        "proprietario": "Carlos Humberto Souza Andrade Filho",
-        "telefone": "(888) 9.888-8888",
-        "cnpj": "07.300.133/0001-07",
-        "enedereco": "CE-350 KM 8, Aquiraz, CE",
-        "bloqueado": "false",
-        "siteweb": "false",
-        "usuario": [
-          {
-            "id": "1",
-            "nome": "Humberto",
-            "email": "humberto.andrade@hotmail.com",
-            "senha": "jerimun1"
-          }
-        ],
-        "gerente": [
-          {
-            "nome": "José Gerente",
-            "email": "jose.gerente@haras.com",
-            "telefone" : "(999) 9.999-9999"
-          }
-        ]        
-      }
-    ]
-  }
+  "haras": [
+    {
+      "profile": [
+        {
+          "nome": "Haras Don Pepe",
+          "logomarca": "img/logomarca_don_pepe.png",
+          "ferra": "img/marca_ferra_don_pepe.png",
+          "sufixo": "Don Pepe",
+          "prefixo": "",
+          "proprietario": "Carlos Humberto Souza Andrade Filho",
+          "telefone": "(888) 9.888-8888",
+          "cnpj": "07.300.133/0001-07",
+          "enedereco": "CE-350 KM 8, Aquiraz, CE",
+          "bloqueado": "false",
+          "siteweb": "false",
+          "usuario": [
+            {
+              "id": "1",
+              "nome": "Humberto",
+              "email": "humberto.andrade@hotmail.com",
+              "senha": "jerimun1"
+            }
+          ],
+          "gerente": [
+            {
+              "nome": "José Gerente",
+              "email": "jose.gerente@haras.com",
+              "telefone": "(999) 9.999-9999"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
