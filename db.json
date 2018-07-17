@@ -187,10 +187,10 @@
     { "id": "V004", "data": "01/02/2018", "animal": "img/9sQoo3bGSMKdzSNcUoJ3_timbiraehumberto.jpg", "categoria": "Procedimento Clínico", "tipo": "Visita Veterinário (Exame Físico)", "diagnostico" : "Apresentando diarréia cônica" , "acao" : "", "icone": "medkit"}
   ],
   "despesas": [
-    { "id": "D001", "tipo" : "Equipamento", "icone": "settings", "data": "30/10/2017", "descricao": "Cabresto de Fita", "local": "Dourado", "quantidade": 1, "valor": "19,00", "observacao": "Cabresto com pescoceira para o garanhão" },
-    { "id": "D002", "tipo" : "Alimentação", "icone": "nutrition", "data": "01/11/2017", "descricao": "Suprimento Ração Mensal", "quantidade": 1, "valor": "315,42" , "observacao": "7 sacas (5 Lazer/2 Haras) + 1 cromo"},
-    { "id": "D003", "tipo" : "Veterinárias", "icone": "medkit", "data": "01/11/2017", "descricao": "Organnact Prata","local": "Dourado", "quantidade": 1, "valor": "39,00" , "observacao": "Reposição Medicamento"},
-    { "id": "D004", "tipo" : "Alimentação", "icone": "medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "local": "Dourado", "quantidade": 1, "valor": "160,00" , "observacao": "www.lavizoo.com.br"}
+    { "id": "D001", "tipo" : "Equipamento", "icone": "settings", "data": "30/10/2017", "descricao": "Cabresto de Fita", "fornecedor": "Dourado", "quantidade": 1, "valor": "19,00", "observacao": "Cabresto com pescoceira para o garanhão" },
+    { "id": "D002", "tipo" : "Alimentação", "icone": "nutrition", "data": "01/11/2017", "descricao": "Suprimento Ração Mensal", "fornecedor": "Integral Mix", "quantidade": 1, "valor": "315,42" , "observacao": "7 sacas (5 Lazer/2 Haras) + 1 cromo"},
+    { "id": "D003", "tipo" : "Veterinárias", "icone": "medkit", "data": "01/11/2017", "descricao": "Organnact Prata","fornecedor": "Dourado", "quantidade": 1, "valor": "39,00" , "observacao": "Reposição Medicamento"},
+    { "id": "D004", "tipo" : "Alimentação", "icone": "medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "fornecedor": "Dourado", "quantidade": 1, "valor": "160,00" , "observacao": "www.lavizoo.com.br"}
   ],
   "agendas": [
     { "id": "AG001", "icone": "ion-magnet", "data": "30/11/2017", "nome": "Casqueamento", "descricao": "Cabresto de Fita",  "responsavel": "1", "animal" : "a001" },
