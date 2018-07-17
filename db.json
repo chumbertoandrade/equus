@@ -192,35 +192,38 @@
     { "id": "D003", "tipo" : "Veterinárias", "icone": "medkit", "data": "01/11/2017", "descricao": "Organnact Prata","fornecedor": "Dourado", "quantidade": 1, "valor": "39,00" , "observacao": "Reposição Medicamento"},
     { "id": "D004", "tipo" : "Alimentação", "icone": "medkit", "data": "01/11/2017", "descricao": "Suplemento Égua/Potro", "fornecedor": "Dourado", "quantidade": 1, "valor": "160,00" , "observacao": "www.lavizoo.com.br"}
   ],
-  "haras": [
-    { "id": "AG999",
-         "profile": [         
-        { 
-          "id": "P001",
-          "nome" : "Haras Rancho Pepe Legal",
-          "logomarca": "img/SAWR0BqFSZknazdkqcWA_Logo_PEPE_legal_onlinelogomaker-103117-1153-5251.png",
-          "marcaFerra" : "img/ZhQWqvxfRGrIqz2KWu2Q_ModeloMarcadeFerra1.png",
-          "sufixo" : "R.P.L",
-          "prefixo" : "N/A",
-          "proprietario": "CARLOS HUMBERTO SOUZA ANDRADE FILHO", 
-          "CNPJ": "Corte da crina até um palmo abaixo da região das orelhas", 
-          "endereco": "Estrada CE-350",
-          "gerente" : [{
-            "nome" : "José Gerente",
-            "telefone" : "85 9999-9999",
-            "email" : ""
-          }],
-          "habilitarSite": "Sim" }
-      ]
-    },
-    { "id": "AG1000",
-         "login": [         
-        { 
-          "usuario": "humberto@equus.com.br", 
-          "senha": "!@#$%" 
-        }
-      ]
-    }    
-    
-  ]
+{
+  "haras": {
+    "profile": [
+      {
+        "nome": "Haras Don Pepe",
+        "logomarca": "img/logomarca_don_pepe.png",
+        "ferra": "img/marca_ferra_don_pepe.png",
+        "sufixo": "Don Pepe",
+        "prefixo": "",
+        "proprietario": "Carlos Humberto Souza Andrade Filho",
+        "telefone": "(888) 9.888-8888",
+        "cnpj": "07.300.133/0001-07",
+        "enedereco": "CE-350 KM 8, Aquiraz, CE",
+        "bloqueado": "false",
+        "siteweb": "false",
+        "usuario": [
+          {
+            "id": "1",
+            "nome": "Humberto",
+            "email": "humberto.andrade@hotmail.com",
+            "senha": "jerimun1"
+          }
+        ],
+        "gerente": [
+          {
+            "nome": "José Gerente",
+            "email": "jose.gerente@haras.com",
+            "telefone" : "(999) 9.999-9999"
+          }
+        ]        
+      }
+    ]
+  }
+}
 }
