@@ -2,7 +2,7 @@
   "animais": [
     {
       "id": "A001",
-      "avatar": "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg",
+      "avatar": "img/dummy/sanhacoepaulo.jpg",
       "nome": "Sanhaço da Santa Lúcia",
       "apelido": "Trovão",
       "registro": "14090",
@@ -25,21 +25,21 @@
       "fotos": [
         {
           "id": "A001_F001",
-          "img": "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+          "img": "img/dummy/Mokit_sanhaco.jpeg"
         },
         {
           "id": "A001_F002",
-          "img": "img/R1LxkXnbSEVLfJENzCTB_paulo-sanhaco-01-11-2017.jpeg"
+          "img": "img/dummy/paulo-sanhaco-01-11-2017.jpeg"
         },
         {
           "id": "A001_F002",
-          "img": "img/H7HbKGKwR6WEQ2HbAk82_sanhacoepaulo.jpg"
+          "img": "img/dummy/sanhacoepaulo.jpg"
         }
       ]
     },
     {
       "id": "A002",
-      "avatar": "img/ikFBzeRrTACI8K69AujI_garanhaodavidafeliz.jpg",
+      "avatar": "img/dummy/garanhaodavidafeliz.jpg",
       "nome": "Garanhão da Vida Feliz",
       "apelido": "Garanhão",
       "registro": "242677",
@@ -62,7 +62,7 @@
     },
     {
       "id": "A003",
-      "avatar": "img/qaQkgnXYSecjXXc5qBry_timbiraehumberto.jpg",
+      "avatar": "img/dummy/timbiraehumberto.jpg",
       "nome": "Timbira da Santa Cristina",
       "apelido": "Timbira",
       "registro": "197300",
@@ -85,7 +85,7 @@
     },
     {
       "id": "A004",
-      "avatar": "img/wmzorGD8TJeiQwqiCXZJ_raioebebeto.jpg",
+      "avatar": "img/dummy/raioebebeto.jpg",
       "nome": "Raio do R.P.L.",
       "apelido": "Raio",
       "registro": "N/A",
@@ -115,7 +115,7 @@
         {
           "id": "A001_F001",
           "apelido": "Garanhão",
-          "img": "img/GGGbOmQ8Sval69lMokit_sanhaco.jpeg"
+          "img": "img/dummy/sanhaco.jpeg"
         }
       ],
       "descricao": "Animal movido para o Pasto sul de Tifton85",
@@ -198,7 +198,7 @@
     {
       "id": "V001",
       "data": "02/11/2017",
-      "animal": "img/hjjUCIUxTQKJsSeqHF5r_sanhacoepaulo.jpg",
+      "animal": "img/dummy/sanhacoepaulo.jpg",
       "categoria": "Procedimento Clínico",
       "tipo": "Visita Veterinário (Exame Físico)",
       "diagnostico": "Apresentando diarréia cônica",
@@ -208,7 +208,7 @@
     {
       "id": "V002",
       "data": "15/10/2017",
-      "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg",
+      "animal": "img/dummy/garanhaodavidafeliz.jpg",
       "categoria": "Controle Sanitário",
       "tipo": "Carrapaticida",
       "diagnostico": "Apresentando diarréia cônica",
@@ -218,7 +218,7 @@
     {
       "id": "V003",
       "data": "15/11/2017",
-      "animal": "img/1hseA2LSrCkyMgI9yG0g_garanhaodavidafeliz.jpg",
+      "animal": "img/dummy/garanhaodavidafeliz.jpg",
       "categoria": "Controle Sanitário",
       "tipo": "Vermífugo",
       "diagnostico": "Tratemento  de Prevenção",
@@ -228,7 +228,7 @@
     {
       "id": "V004",
       "data": "01/02/2018",
-      "animal": "img/9sQoo3bGSMKdzSNcUoJ3_timbiraehumberto.jpg",
+      "animal": "img/dummy/timbiraehumberto.jpg",
       "categoria": "Procedimento Clínico",
       "tipo": "Visita Veterinário (Exame Físico)",
       "diagnostico": "Apresentando diarréia cônica",
