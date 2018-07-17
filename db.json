@@ -305,8 +305,7 @@
               "senha": "jerimun1"
             }
           ],
-          "gerente": [
-            {
+          "gerente": [{
               "nome": "José Gerente",
               "email": "jose.gerente@haras.com",
               "telefone": "(999) 9.999-9999"
